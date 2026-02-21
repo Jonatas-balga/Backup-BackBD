@@ -6,7 +6,7 @@ VALUES ('Administrador', 'Acesso total: Superintendente e Secretaria'),
 INSERT INTO TB_PROFESSOR (NM_PROFESSOR, CPF_PROF, OBSERVACOES) 
 VALUES ('João da Silva', '111.111.111-11', 'Professor da Classe Jovens'),
 	   ('Maria Oliveira', '222.222.222-22', 'Professora do Jardim de Infância'),
-	   ('João da Silva', '888.888.888-88', 'Professor da Classe Jovens'),
+	   ('Marcos Cruz', '888.888.888-88', 'Professor da Classe Jovens'),
        ('Maria Oliveira', '999.989.999-99', 'Professora do Jardim de Infância'),
        ('Carlos Eduardo', '333.333.333-33', 'Professor da Classe de Casais'),
        ('Ana Beatriz', '444.444.444-44', 'Professora da Classe dos Adolescentes'),
